@@ -1,0 +1,2 @@
+git status: Comprobar el estado
+git commit: Comprometer o agregar un comentario
