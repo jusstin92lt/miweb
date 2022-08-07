@@ -1,3 +1,11 @@
+git --version: Verificar version e instalacion de git
+git config --global user.name "nombre de usuario": configurar GIT con un nombre usuario
+git congig --global user.email "direccion de correo electronico": configurar GIT con un correo
+git config --global core.editor "code --wait": configurar en GIT a VS Code como nuestro editor de texto predeterminado
+git config --global -e: ver archivo de configuracion global
+git config --global core.autocrlf true: configuracion para windows para la subida y bajada de archivo del repositorio de 
+git config -h: Ayuda de GIT 
+git --init: iniciar un directorio como repositorio de GIT
 git status: Comprobar el estado
 git add: agregar al repositorio
 git commit: Comprometer o agregar un comentario
