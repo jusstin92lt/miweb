@@ -13,3 +13,6 @@ git add: agregar al repositorio
 git commit: Comprometer o agregar un comentario
 rm: eliminar un archivo
 mv: mover o cambiar el nombre de un archivo
+--------------------Opciones de GIT--------------------------------
+Se puede crear y editar un fichero llamado .gitignore que contenga todos los ficheros y carpetas que queremos que no se suban
+al repositorio
