@@ -14,6 +14,9 @@ git commit: Comprometer o agregar un comentario
 rm: eliminar un archivo
 mv: mover o cambiar el nombre de un archivo
 git diff: ver a detalle los cambios que se van a subir
+git log: logs de GIT
+git log oneline: logs de GIT mas simplificados
+
 --------------------Opciones de GIT--------------------------------
 Se puede crear y editar un fichero llamado .gitignore que contenga todos los ficheros y carpetas que queremos que no se suban
 al repositorio
