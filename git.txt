@@ -1,3 +1,5 @@
 git status: Comprobar el estado
 git add: agregar al repositorio
 git commit: Comprometer o agregar un comentario
+rm: eliminar un archivo
+mv: mover o cambiar el nombre de un archivo
